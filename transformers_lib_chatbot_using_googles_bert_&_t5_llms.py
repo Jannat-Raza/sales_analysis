@@ -12,7 +12,7 @@ Original file is located at
 import os
 from IPython.display import Image
 PATH = "C:\\Users\\pitsi\\Desktop\\2024 Youtube\\1.OpenAI_Chatbot\\"
-Image("/content/AI Pic 4.PNG",width=900, height=700)
+Image("AI Pic 4.PNG",width=900, height=700)
 
 """## Agenda
 
@@ -30,7 +30,7 @@ The Transformers library allows you to download, fine-tune, and use models local
 When using LLM models, you generally have two main options: using the Transformers library (e.g., Hugging Face's transformers) or calling models via APIs (such as OpenAI, Google, or Hugging Face APIs). Both approaches have their pros and cons depending on your project
 """
 
-Image("/content/transf Vs API 1.png",width=900, height=700)
+Image("transf Vs API 1.png",width=900, height=700)
 
 Image("transf Vs API 2.png",width=900, height=700)
 

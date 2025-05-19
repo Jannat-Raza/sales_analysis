@@ -34,10 +34,6 @@ Image("/content/transf Vs API 1.png",width=900, height=700)
 
 Image("transf Vs API 2.png",width=900, height=700)
 
-python transformers_lib_chatbot_using_googles_bert_&_t5_llms.py
-
-
-
 # Importing our libraries
 
 # import openai

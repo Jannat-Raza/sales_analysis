@@ -34,38 +34,6 @@ Image("/content/transf Vs API 1.png",width=900, height=700)
 
 Image("transf Vs API 2.png",width=900, height=700)
 
-"""## 1. Libraries to install"""
-
-# pip install openai PyPDF2 pdfplumber
-
-# pip install streamlit
-
-# pip install --upgrade plotly
-
-# pip install pymupdf
-
-# pip install transformers
-
-# pip install torch
-
-# pip install tensorflow
-
-# pip install sentencepiece
-
-# pip install tf-keras
-
-# Install necessary libraries
-pip install streamlit
-pip install --upgrade plotly
-pip install pymupdf
-pip install transformers
-pip install torch
-pip install tensorflow
-pip install sentencepiece
-pip install tf-keras
-pip install pdfplumber
-pip install PyPDF2
-
 python transformers_lib_chatbot_using_googles_bert_&_t5_llms.py
 
 

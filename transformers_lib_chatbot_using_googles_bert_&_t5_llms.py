@@ -55,14 +55,17 @@ Image("transf Vs API 2.png",width=900, height=700)
 # pip install tf-keras
 
 # Install necessary libraries
-!pip install streamlit
-!pip install --upgrade plotly
-!pip install pymupdf
-!pip install transformers
-!pip install torch
-!pip install tensorflow
-!pip install sentencepiece
-!pip install tf-keras
+pip install streamlit
+pip install --upgrade plotly
+pip install pymupdf
+pip install transformers
+pip install torch
+pip install tensorflow
+pip install sentencepiece
+pip install tf-keras
+pip install pdfplumber
+pip install PyPDF2
+
 
 # Importing our libraries
 

@@ -1,3 +1,6 @@
+# Install necessary libraries
+!pip install streamlit PyPDF2 transformers
+
 # pdf_chatbot_streamlit.py
 
 import streamlit as st

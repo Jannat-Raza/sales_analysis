@@ -55,7 +55,6 @@ Image("transf Vs API 2.png",width=900, height=700)
 # pip install tf-keras
 
 # Install necessary libraries
-!pip install openai PyPDF2 pdfplumber
 !pip install streamlit
 !pip install --upgrade plotly
 !pip install pymupdf

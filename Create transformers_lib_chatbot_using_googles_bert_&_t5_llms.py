@@ -2,7 +2,6 @@
 
 import os
 import PyPDF2
-import fitz  # PyMuPDF for PDF extraction
 from transformers import (
     T5Tokenizer,
     T5ForConditionalGeneration,
